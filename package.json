@@ -1,5 +1,5 @@
 {
-  "name": "unit-converter",
+  "name": "@g/unit-converter",
   "version": "1.0.0",
   "description": "This package helps to convert any unit to any unit",
   "main": "index.js",
