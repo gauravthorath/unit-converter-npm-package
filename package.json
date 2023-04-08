@@ -1,7 +1,7 @@
 {
-  "name": "@g/unit-converter",
+  "name": "unit-converter",
   "version": "1.0.0",
-  "description": "This package helps to convert any unit to any unit",
+  "description": "This package is for converting any measuring unit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,12 @@
     "url": "git+https://github.com/gauravthorath/unit-converter-npm-package.git"
   },
   "keywords": [
-    "unit-converter"
+    "unit"
   ],
   "author": "Gaurav Thorat",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravthorath/unit-converter-npm-package/issues"
+  },
+  "homepage": "https://github.com/gauravthorath/unit-converter-npm-package#readme"
 }
