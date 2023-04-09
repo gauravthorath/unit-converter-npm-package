@@ -1,5 +1,5 @@
 {
-  "name": "@gt/unitConverter",
+  "name": "@gt/unitconverter",
   "version": "1.0.0",
   "description": "This package is for converting any measuring unit",
   "main": "index.js",
