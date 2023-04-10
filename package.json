@@ -1,7 +1,7 @@
 {
-  "name": "@gt/unitconverter",
-  "version": "1.0.0",
-  "description": "This package is for converting any measuring unit",
+  "name": "@ggt/unit-converter",
+  "version": "1.0.2",
+  "description": "This is universal unit converter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/gauravthorath/unit-converter-npm-package.git"
   },
   "keywords": [
-    "unit"
+    "unit",
+    "converter",
+    "npm unit converter"
   ],
   "author": "Gaurav Thorat",
   "license": "ISC",
